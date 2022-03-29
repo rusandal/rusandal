@@ -1,11 +1,13 @@
-### Привет, меня зовут Руслан.
+## Привет, меня зовут Руслан.
 Разработчик Java.
-## Портфолио
-Домашние работы [a link](https://github.com/rusandal/repo/blob/branch/other_file.md)
-Курсовые работы
-Виртуальная стафировка
-Дополнительные проекты
+### Портфолио
+1. Домашние работы [_](https://github.com/rusandal/repo/blob/branch/other_file.md)
+2. Курсовые работы
+3. Виртуальная стажировка
+4. Дополнительные проекты
 
+### Сертификаты
+[Основы Java](https://github.com/rusandal/rusandal/blob/main/certificate.pdf), [Java Core](https://github.com/rusandal/rusandal/blob/main/certificate%20JavaCore.pdf), [GIT](https://github.com/rusandal/rusandal/blob/main/certificate%20GIT.pdf), [Шаблоны проектирования](https://github.com/rusandal/rusandal/blob/main/certificatePattern.pdf), [Многопоточное и функциональное программирование](https://github.com/rusandal/rusandal/blob/main/certificatePattern.pdf), [Web, Spring & SpringMVC](https://github.com/rusandal/rusandal/blob/main/certificate_Web%2C%20Spring%2C%20SpringMVC.pdf), [Spring Boot](https://github.com/rusandal/rusandal/blob/main/certificate%20SpringBoot.pdf), [Хранение данных и организация безопасности](https://github.com/rusandal/rusandal/blob/main/certificate%20DB%26Secure.pdf)
 <!--
 **rusandal/rusandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
