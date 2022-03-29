@@ -1,4 +1,10 @@
-### Hi there 👋
+### Привет, меня зовут Руслан.
+Разработчик Java.
+##
+Домашние работы [a link](https://github.com/rusandal/repo/blob/branch/other_file.md)
+Курсовые работы
+Виртуальная стафировка
+Дополнительные проекты
 
 <!--
 **rusandal/rusandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
