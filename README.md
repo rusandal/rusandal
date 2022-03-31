@@ -1,7 +1,7 @@
 ## Привет, меня зовут Руслан.
 Разработчик Java с многолетним опытом руководителя проектов.
 ### Портфолио
-1. [Домашние работы](https://github.com/rusandal/my-works/blob/main/README.md)
+1. [Реализованные проекты в период обучения](https://github.com/rusandal/my-works/blob/main/README.md)
 2. Курсовые работы    
     * [Сетевой чат](https://github.com/rusandal/myChat)
     * [Сервис перевода денег с карты на карту](https://github.com/rusandal/BackendMoneyTranfer-portfolio-)
