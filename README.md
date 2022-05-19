@@ -1,8 +1,8 @@
 ## Привет, меня зовут Руслан.
 Разработчик Java.
 ### Портфолио
-1. [Облачное хранилище (REST-api)](https://github.com/rusandal/cloud-file-storage)
-2. [Реализованные проекты в период обучения](https://github.com/rusandal/my-works/blob/main/README.md)
+1. [Реализованные проекты в период обучения](https://github.com/rusandal/my-works/blob/main/README.md)
+2. Дипломный проект [Облачное хранилище (REST-api)](https://github.com/rusandal/cloud-file-storage)
 3. Курсовые работы    
     * [Сетевой чат](https://github.com/rusandal/myChat)
     * [Сервис перевода денег с карты на карту](https://github.com/rusandal/BackendMoneyTranfer-portfolio-)
