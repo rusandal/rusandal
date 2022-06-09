@@ -7,7 +7,7 @@
     * [Сетевой чат](https://github.com/rusandal/myChat)
     * [Сервис перевода денег с карты на карту](https://github.com/rusandal/BackendMoneyTranfer-portfolio-)
 4. [Виртуальная стажировка Сбер](https://github.com/rusandal/sber-sortDataFromFile)
-5. [Дополнительные проекты](https://github.com/rusandal/works-more)
+5. [Прочие проекты](https://github.com/rusandal/works-more)
 
 ### Сертификаты
 [Основы Java](https://github.com/rusandal/rusandal/blob/main/certificate.pdf), [Java Core](https://github.com/rusandal/rusandal/blob/main/certificate%20JavaCore.pdf), [GIT](https://github.com/rusandal/rusandal/blob/main/certificate%20GIT.pdf), [Шаблоны проектирования](https://github.com/rusandal/rusandal/blob/main/certificatePattern.pdf), [Многопоточное и функциональное программирование](https://github.com/rusandal/rusandal/blob/main/certificatePattern.pdf), [Web, Spring & SpringMVC](https://github.com/rusandal/rusandal/blob/main/certificate_Web%2C%20Spring%2C%20SpringMVC.pdf), [Spring Boot](https://github.com/rusandal/rusandal/blob/main/certificate%20SpringBoot.pdf), [Хранение данных и организация безопасности](https://github.com/rusandal/rusandal/blob/main/certificate%20DB%26Secure.pdf), [Стажировка Сбер](https://github.com/rusandal/rusandal/blob/main/Sber.pdf)
