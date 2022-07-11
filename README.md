@@ -6,8 +6,7 @@
 3. Курсовые работы    
     * [Сетевой чат](https://github.com/rusandal/myChat)
     * [Сервис перевода денег с карты на карту](https://github.com/rusandal/BackendMoneyTranfer-portfolio-)
-4. [Виртуальная стажировка Сбер](https://github.com/rusandal/sber-sortDataFromFile)
-5. [Прочие проекты](https://github.com/rusandal/works-more)
+4. [Прочие проекты](https://github.com/rusandal/works-more)
 
 ### Сертификат
 [Java](https://github.com/rusandal/rusandal/blob/main/Java.pdf)  
